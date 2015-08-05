@@ -1,6 +1,10 @@
 ---
 title: Triggers?!
 layout: post
+slug: triggers
+date: 2015-08-05 22:50 +1000
+tags: [meta]
+comments: true
 ---
 
 As an explicit exception to most scenarios - don't assume no cheating this time.
@@ -28,5 +32,5 @@ Likely follow up question of:
 [I would start by asking "There was a situation where apparently Sidisi forgot to gain life? Could you walk me through what happened in that game?".  
 I would be watching for words like "lifegain trigger" and other signs that the player just does not understand how resolving an ability works.][2]
 
-[1]: /responseA.html
-[2]: /responseB.html
+[1]: /_posts/responseA.html
+[2]: /_posts/responseB.html

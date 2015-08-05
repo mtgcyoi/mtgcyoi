@@ -32,7 +32,7 @@ author:
 footer-links-active:
   rss: false
   facebook: false
-  email: false
+  email: true
   twitter: false
   github: false
   linkedin: false
@@ -53,6 +53,7 @@ timezone: "Australia/Melbourne"
 markdown: kramdown
 # highlighter: pygments
 permalink: /:year-:month-:day-:title
+relative_permalinks: false
 paginate: 20
 
 # Default YAML values (more information on Jekyll's site)
@@ -89,3 +90,5 @@ prose:
     
 gems:
   - jekyll-sitemap
+
+include: ['_posts']

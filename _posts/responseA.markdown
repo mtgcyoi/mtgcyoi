@@ -1,6 +1,9 @@
 ---
-title: Response B
+title: Response A
 layout: post
+slug: responsea
+date: 2015-08-05 22:50 +1000
+tags: [meta]
 ---
 
 "I mulliganed to 6 and kept an awesome price of progress hand then won through a flipped delver and a Deathrite Shaman"
